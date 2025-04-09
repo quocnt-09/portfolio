@@ -1,6 +1,7 @@
 {
-  "name": "DevFolio: Dhawal's Personal poerfolio",
-  "short_name": "DevFolio",
+  "name": "Quoc's Personal portfolio",
+  "short_name": "QuocPortfolio",
+  "description": "Quoc's personal portfolio website showcasing projects and skills.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
